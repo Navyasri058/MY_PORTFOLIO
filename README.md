@@ -1,15 +1,11 @@
-🌐 DEVELOPER  PORTFOLIO – Ch Navya Sri
+add🌐 DEVELOPER  PORTFOLIO – Ch Navya Sri
 
         A modern and responsive developer portfolio website built using React, Tailwind CSS, and Framer Motion.
         This portfolio showcases my skills, projects, and learning journey in Computer Science and Web Development.
 
 🚀 LIVE PREVIEW
-
-(Add your deployed website link here if you deploy it later)
-
-Example:
-https://your-portfolio-link.vercel.app
-
+          This is the website link just click on it to view my portfolio.
+                https://my-portfolio-phi-livid-41.vercel.app/
 🛠️ TECH STACK
 
     React.js – Frontend framework
