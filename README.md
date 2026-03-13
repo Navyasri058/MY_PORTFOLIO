@@ -123,3 +123,7 @@ Ch Navya Sri
 GitHub: https://github.com/Navyasri058
 
 LinkedIn: https://www.linkedin.com/in/chappidi-navya-sri-a15b43379/
+=======
+# MY_PORTFOLIO
+A modern developer portfolio built with React, Tailwind CSS, and Framer Motion to showcase my skills, projects, and learning journey in computer science.
+>>>>>>> de419a7ea52e6b020a76f442fa14b3fbe7423854
